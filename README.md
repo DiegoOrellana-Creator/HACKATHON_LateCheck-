@@ -8,7 +8,9 @@ Cultivos soportados :
   Soja
   Maiz
   Caña de Azucar 
-  Girasol 
+  Sorgo
+
+Cultivos soportados : Soja Maiz Caña de Azucar Girasol
 
 ```text
 AgroScan IA-sc/
@@ -24,6 +26,7 @@ AgroScan IA-sc/
 │   └── view.py          # Vista – interfaz gráfica con Tkinter
 ├── requirements.txt     # Dependencias del proyecto
 └── README.md
+```
 
 Tecnologias Utilizadas: 
 Python 3.10
