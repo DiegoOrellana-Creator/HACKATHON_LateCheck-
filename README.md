@@ -29,12 +29,14 @@ AgroScan IA-sc/
 ```
 
 Tecnologias Utilizadas: 
+```text
 Python 3.10
 Tkinter 
 Pillow
 Google Gemini AI
 Threading 
 JSON/Regex
+```
 
 Imagen: 
 
@@ -43,12 +45,13 @@ Imagen:
 
 
 Instrucción de Ejecución: 
+```text
   Haz clic en "Seleccionar Imagen del Cultivo" y elige una foto de una hoja (.jpg, .png, .bmp).
   Haz clic en "Analizar con Gemini AI".
   Espera unos segundos mientras se procesa la imagen.
   Lee el diagnóstico en el panel izquierdo: cultivo, enfermedad, severidad, síntomas y tratamiento.
   Opcionalmente, usa "Exportar Diagnóstico" para guardar el resultado.
-
+```
 Nombre de Equipo: Los Piratas
 Integrantes: 
   Aro Challapa Omar
