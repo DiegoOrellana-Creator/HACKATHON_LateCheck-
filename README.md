@@ -10,7 +10,6 @@ Cultivos soportados :
   Caña de Azucar 
   Sorgo
 
-Cultivos soportados : Soja Maiz Caña de Azucar Girasol
 
 ```text
 AgroScan IA-sc/
