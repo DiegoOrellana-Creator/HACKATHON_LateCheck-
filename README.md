@@ -10,27 +10,20 @@ Cultivos soportados :
   Caña de Azucar 
   Girasol 
 
-Arquitectura : 
-El proyecto sigue el patrón de diseño MVC(MODELO-VISTA-CONTROLADOR), lo que permite una separación clara de responsabilidades. 
-  
-    AgroScan IA-sc/
-  │
-  ├── main.py                   # Punto de entrada de la aplicación
-  │
-  ├── control/
-  │   ├── __init__.py
-  │   └── controller.py         # Controlador MVC — coordina vista y modelo
-  │
-  ├── model/
-  │   ├── __init__.py
-  │   └── model.py              # Modelo — integración con Gemini AI
-  │
-  ├── view/
-  │   ├── __init__.py
-  │   └── view.py               # Vista — interfaz gráfica con Tkinter
-  │
-  ├── requirements.txt          # Dependencias del proyecto
-  └── README.md
+```text
+AgroScan IA-sc/
+├── main.py              # Punto de entrada de la aplicación
+├── control/
+│   ├── __init__.py
+│   └── controller.py    # Controlador MVC – coordina vista y modelo
+├── model/
+│   ├── __init__.py
+│   └── model.py         # Modelo – integración con Gemini AI
+├── view/
+│   ├── __init__.py
+│   └── view.py          # Vista – interfaz gráfica con Tkinter
+├── requirements.txt     # Dependencias del proyecto
+└── README.md
 
 Tecnologias Utilizadas: 
 Python 3.10
