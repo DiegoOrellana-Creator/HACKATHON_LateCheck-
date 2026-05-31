@@ -1,4 +1,4 @@
-# HACKATHON_LateCheck-
+<img width="1914" height="1020" alt="image" src="https://github.com/user-attachments/assets/438a8ebd-9b35-4eaf-abce-05479e6207bd" /># HACKATHON_LateCheck-
 
 AgroScan IA - Detector de Enfermedades en Cultivos
 AgroScan IA es una aplicación de escritorio desarrollada en Python que permite a productores agrícolas y técnicos de campo diagnosticar enfermedades en cultivos mediante el análisis de fotografías de hojas. El sistema utiliza la API de Gemini AI (Google) para procesar imágenes y devolver un diagnóstico detallado con síntomas, nivel de severidad y tratamiento recomendado.
@@ -37,7 +37,10 @@ Threading
 JSON/Regex
 
 Imagen: 
-<img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/78313272-e6cb-45b8-81f0-d4cd5e822c09" />
+
+<img width="1600" height="851" alt="Interfaz" src="https://github.com/user-attachments/assets/aed257c5-d6d2-4ece-b512-a585290081af" />
+
+
 
 Instrucción de Ejecución: 
   Haz clic en "Seleccionar Imagen del Cultivo" y elige una foto de una hoja (.jpg, .png, .bmp).
